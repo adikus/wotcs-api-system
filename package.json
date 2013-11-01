@@ -1,0 +1,20 @@
+{
+  "name": "wotcs-api-system",
+  "version": "0.0.1",
+  "description": "Base system used to build WoTcs clans and players API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "world",
+    "of",
+    "tanks",
+    "api",
+    "players",
+    "clans",
+    "stats"
+  ],
+  "author": "Andrej Hoos",
+  "license": "MIT"
+}
