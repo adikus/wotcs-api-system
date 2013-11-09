@@ -2,6 +2,10 @@
   "name": "wotcs-api-system",
   "version": "0.0.1",
   "description": "Base system used to build WoTcs clans and players API",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adikus/wotcs-api-system.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
