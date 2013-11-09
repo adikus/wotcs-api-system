@@ -20,5 +20,16 @@
     "stats"
   ],
   "author": "Andrej Hoos",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "3.4.1",
+    "jade": "*",
+    "less-middleware": "*",
+    "ws": "*",
+    "underscore": "*",
+    "pg": "*",
+    "squel": "*",
+    "mongodb": "*",
+    "chokidar": "*"
+  }
 }
