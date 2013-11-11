@@ -1,6 +1,6 @@
 {
   "name": "wotcs-api-system",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Base system used to build WoTcs clans and players API",
   "repository": {
     "type": "git",
@@ -30,6 +30,7 @@
     "pg": "*",
     "squel": "*",
     "mongodb": "*",
-    "chokidar": "*"
+    "chokidar": "*",
+    "uglify-js": "*"
   }
 }
