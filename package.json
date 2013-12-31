@@ -1,6 +1,6 @@
 {
   "name": "wotcs-api-system",
-  "version": "0.0.13",
+  "version": "0.1.0",
   "description": "Base system used to build WoTcs clans and players API",
   "repository": {
     "type": "git",
